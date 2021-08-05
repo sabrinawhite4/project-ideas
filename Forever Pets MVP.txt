@@ -1,0 +1,29 @@
+Pitch/Idea: Create a web application that allows users to connect with the closest animal shelter and make adoption easier for those who do not have time to go in person without scheduling an appointment.
+
+MVP:
+    - Users can create an account
+    - Users can log in/out
+    - Users can schedule shelter appointments
+    - Users can view their appointments
+    - Shelters can create an account
+    - Display animals/information
+    - Shelters can add animals
+    - Shelters can remove animals
+    - Shelters can edit animals
+    - Users can press X to dismiss the animal
+    - Users can favorite an animal that will be saved to their favorites tab
+    - Users can superfavorite an animal that will direct them the appointment page
+    - Add Favorites tab
+    - Add Appointment tab
+    - Ability to edit/delete/add/schedule appointments
+    - Ability to edit/delete favorites
+    - Search bar to find shelters closest to you.
+
+
+
+Future Features:
+    - Users can swipe left/right on their phone to switch between animals
+    - Communicate from inside app.
+    - Shelters can provide livestreams of the animals
+    - Location services to find shelters
+    - Donation link to the shelters.
